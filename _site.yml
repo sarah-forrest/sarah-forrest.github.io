@@ -5,6 +5,8 @@ navbar:
   right:
     - text: "Experience"
       href: experience.html
+    - text: "Dashboard"
+      href: dashboard.html
     - icon: fa-solid fa-file
       href: images/Forrest.Sarah.Resume.pdf
     - icon: fa-envelope fa-lg
