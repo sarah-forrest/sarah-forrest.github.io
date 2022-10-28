@@ -1,0 +1,18 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "Experience"
+      href: experience.html
+    - icon: fa-solid fa-file
+      href: images/Forrest.Sarah.Resume.pdf
+    - icon: fa-envelope fa-lg
+      href: mailto:sef2183@cumc.columbia.edu
+    - icon: fa-brands fa-linkedin
+      href: https://www.linkedin.com/in/sarahforrestmph/
+    - icon: fa-github fa-lg
+      href: https://github.com/sarah-forrest
+output:
+  html_document:
+    theme: cosmo

@@ -1,0 +1,30 @@
+---
+title: "Sarah Forrest"
+output: html_document
+---
+
+Master of Public Health (MPH) Candidate 2023 <br>
+Columbia University Mailman School of Public Health <br>
+Department of [Epidemiology](https://www.publichealth.columbia.edu/academics/degrees/master-public-health/columbia-mph/mph-epidemiology) <br>
+Certificate in [Applied Biostatistics and Public Health Data Science](https://www.publichealth.columbia.edu/academics/degrees/master-public-health/certificates/applied-biostatistics-and-public-health-data-science) <br>
+
+<br>
+
+<center>
+<img src="images/me.JPG" style="width:50%; border:5px solid">
+</center>
+
+<br>
+
+## About
+I received a BA in Public Health-Global Health from the University of Washington in 2019. I'm currently a second-year Master's student pursuing a Master of Public Health (MPH) at Columbia Mailman School of Public Health in the Department of Epidemiology, with a certificate in Applied Biostatistics and Public Health Data Science. I'm passionate about applying analytical and epidemiological skills to address real-world health issues.
+
+See [Experience](experience.html) page for more information on my academic and professional experiences.
+
+<br>
+
+## Contact Information
+Sarah Forrest <br>
+New York, NY <br>
+Email: [sef2183@cumc.columbia.edu](mailto:sef2183@cumc.columbia.edu) <br>
+LinkedIn: [www.linkedin.com/in/sarahforrestmph](www.linkedin.com/in/sarahforrestmph/)

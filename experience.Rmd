@@ -1,0 +1,84 @@
+---
+title: "Academic and Professional Experience"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+<br>
+
+## Education 
+**[Columbia University, Mailman School of Public Health](https://www.publichealth.columbia.edu/)**, New York, NY (Expected May 2023) <br>
+**Master of Public Health (MPH)** *in [Epidemiology](https://www.publichealth.columbia.edu/academics/degrees/master-public-health/columbia-mph/mph-epidemiology), Certificate in [Applied Biostatistics and Public Health Data Science](https://www.publichealth.columbia.edu/academics/degrees/master-public-health/certificates/applied-biostatistics-and-public-health-data-science)* <br>
+GPA: 4.06 (A+) <br>
+• Activities & Honors: Columbia Mailman Consulting Club, Healthcare Data Analytics Club, Student Well-Being Collective <br>
+• Relevant Coursework: Epidemiology I-III, Applied Regression Analysis I & II, Analysis of Categorical Data, Statistical Computing with SAS, Data Science/R, Public Health GIS/ArcGIS <br>
+<br>
+**[University of Washington](https://www.washington.edu/)**, Seattle, WA (June 2019) <br>
+**Bachelor of Arts** *in [Public Health-Global Health](https://sph.washington.edu/phgh), Minor in [Nutritional Sciences](https://nutr.uw.edu/undergraduate/nutrition-minor/)* <br>
+GPA: 3.62
+
+<br>
+
+## Experience
+**Columbia University, Department of Biostatistics**, New York, NY (September 2022 – Present) <br>
+*Graduate Teaching Assistant* <br>
+•	Improve student learning outcomes and statistical analysis skills for Statistical Computing with SAS & Applied Regression courses by facilitating discussion and providing effective feedback to 100+ students from non-technical backgrounds. <br>
+•	Create video tutorials introducing students to the SAS interface and teach fundamentals of statistical programming. <br>
+
+**Columbia University, [Geospatial and Applied Prevention Science Lab](https://www.thegapslab.org/)**, New York, NY (February 2022 – August 2022) <br>
+*Graduate Research Assistant* <br>
+•	Investigated associations between urban design, child mobility, and crash risks in California cities, to support a NIH grant proposal informing how best to configure transportation networks to reduce crash incidence and minimize health inequities.  <br>
+•	Created statistical models to predict mobility using mixed linear regression and multinomial logistic regression in SAS and R.<br>
+•	Extracted and cleaned mobility data for 3,000+ children in over 250 cities from publicly available data sources using SAS.<br>
+•	Created graduated color maps of urban design measures for California cities using Geographic Information Systems in ArcGIS and R to confirm accuracy of variable calculations.
+•	Created compelling data visualization, summary tables, and model result reports in R for publication and presentation. See research poster [here](images/Forrest_Sarah_APExPoster.pdf){width=100%}<br>
+•	Conducted a comprehensive review of available literature on spatial epidemiology and children’s mobility research. <br>
+
+**Department of Veteran's Affairs, [Seattle Epidemiologic Research & Information Center (ERIC)](https://www.seattle.eric.research.va.gov/)**, Seattle, WA (October 2020 – August 2021) <br>
+*Human Subjects Research Assistant*, [Vietnam-Era Twin (VET) Registry](https://www.seattle.eric.research.va.gov/VETR/Home.asp) <br>
+• Created and coded queries from a complex data set of 14,000+ individuals and 30+ different studies (surveys, medical records, biospecimen data) over 30 years; accurately recorded data and created reports in MS Access and Excel and presented weekly updates to Team to improve veterans' health using epidemiologic research. <br>
+• Developed three study procedures, recruitment scripts, and trained new staff to ensure consistency and reliability. <br>
+• Successfully recruited and followed up with 500+ research participants through phone and written correspondence. <br>
+• Accurately prepared documentation for Institutional Review Board (IRB) submissions. <br>
+• Collaborated with senior subject matter experts and researchers in three locations across the United States. <br>
+
+**University of Washington Honors Program, [Bonderman Fellowship](https://bonderman.uw.edu/)**, South America & Southeast Asia (September 2019 – March 2020) <br>
+*Bonderman Fellow* <br>
+•	Selected as one of 9 undergraduate students out of a graduating class of 8,000+ for the highly competitive fellowship. See profile [here](https://bonderman.uw.edu/fellows/sarah-forrest/) <br>
+•	Independently traveled for 6 continuous months in South America and Southeast Asia to investigate systems of public health and explore multicultural approaches to wellness and modes of healing across 7 different countries. <br>
+
+**[University of Washington Food Pantry](https://www.washington.edu/anyhungryhusky/the-uw-food-pantry/)**, Seattle, WA (January 2019 – August 2019) <br>
+*Fresh Food and Sustainability Intern* <br>
+• Spearheaded the development of sustainable food recovery strategies to supply the Pantry with fresh meals and produce. <br>
+• Established working relationships and maintained frequent communication with community partners to facilitate donations. <br>
+• Established a 5-person team to recover food from scratch by recruiting, training, and leading student volunteers. <br>
+
+**University of Washington Health Promotion Office**, Seattle, WA (January 2019 – June 2019) <br>
+*Pre-Exposure Prophylaxis Assessment Lead* <br>
+• Collaborated with an interdisciplinary team and conducted literature reviews to inform the creation of a research question examining the barriers and facilitators to accessing HIV services by LGBTQIA students on the UW campus. <br>
+• Developed a survey that received 90+ responses and coded responses in Excel to visualize data and identify themes. <br>
+• Presented research findings to university administrators at the UW Student Well-Being Collaborative and proposed recommendations to reduce barriers by emphasizing patient anonymity and insurance coverage of PrEP. <br>
+
+**South King County Food Coalition, Elk Run Farm**, Maple Valley, WA (June 2018 – September 2018) <br>
+*AmeriCorps VISTA Summer Associate* <br>
+• Maintained thorough and consistent records of all harvest data necessary for grant applications using Excel. <br>
+• Coordinated promotion of events, created marketing materials, produced a bi-weekly newsletter, and publicized opportunities through social media to recruit community members and maintain a volunteer-based workforce. <br>
+• Created and launched an 8-week paid internship program for an incoming cohort of high school students to teach key concepts in sustainable agriculture and career development skills.
+
+<br>
+
+## Presentations
+University of Washington School of Public Health Undergraduate Symposium, Seattle, WA. “*Public Opinion and Stakeholder Perspectives on Supervised Injection Facilities and Syringe Service Programs in Seattle, WA,*” May 23, 2019
+
+<br>
+
+## Skills
+**Computer**: Strong knowledge of MS Office (Word, Excel, Access, PowerPoint), statistical applications (SAS, R), ArcGIS, REDCap <br>
+**Certifications**: CITI (human subjects research), HIPAA (patient privacy), VA Human Subjects Protection training/certification <br>
+**Language**: Intermediate level of proficiency in Spanish, extensive travel in 10 countries in South America and Southeast Asia
+
+<br>
+
+## [Resume](images/Forrest.Sarah.Resume.pdf){width=100%}
+![](images/Forrest.Sarah.Resume.pdf){width=100%}
