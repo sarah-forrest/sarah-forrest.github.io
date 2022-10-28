@@ -29,29 +29,7 @@ rest_inspec_df =
 Column {data-width=600}
 -----------------------------------------------------------------------
 
-### Chart A
-
-```{r}
-rest_inspec_df %>% 
-  subset(boro != "Missing") %>% 
-  group_by(boro) %>% 
-  plot_ly(
-    y = ~score, 
-    color = ~boro,
-    type = "box", 
-    colors = "viridis",
-    alpha = .5) %>%
-  layout(title = 'Boxplots of Pizza Restaurant Inspection Scores by Borough, 2017', 
-         xaxis = list(title = 'Borough'), 
-         yaxis = list(title = 'Restaurant Inspection Score'), 
-         legend = list(title = list(text = 'Borough')))
-```
-
-
-Column {data-width=400}
------------------------------------------------------------------------
-
-### Chart B
+### Scatter Plot
 
 ```{r}
 n = rest_inspec_df %>% 
@@ -78,7 +56,29 @@ rest_inspec_df %>%
          legend = list(title = list(text = 'Borough')))
 ```
 
-### Chart C
+
+Column {data-width=400}
+-----------------------------------------------------------------------
+
+### Box Plot
+
+```{r}
+rest_inspec_df %>% 
+  subset(boro != "Missing") %>% 
+  group_by(boro) %>% 
+  plot_ly(
+    y = ~score, 
+    color = ~boro,
+    type = "box", 
+    colors = "viridis",
+    alpha = .5) %>%
+  layout(title = 'Boxplots of Pizza Restaurant Inspection Scores by Borough, 2017', 
+         xaxis = list(title = 'Borough'), 
+         yaxis = list(title = 'Restaurant Inspection Score'), 
+         legend = list(title = list(text = 'Borough')))
+```
+
+### Bar Plot
 
 ```{r}
 rest_inspec_df %>% 
