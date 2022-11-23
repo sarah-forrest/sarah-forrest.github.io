@@ -1,13 +1,9 @@
-name: "Yay internet!"
+name: 
 output_dir: "."
 navbar:
   title: "Home"
   right:
-    - text: "Experience"
-      href: experience.html
-    - text: "Dashboard"
-      href: dashboard.html
-    - icon: fa-solid fa-file
+    - text: "Resume.pdf"
       href: images/Forrest.Sarah.Resume.pdf
     - icon: fa-envelope fa-lg
       href: mailto:sef2183@cumc.columbia.edu
@@ -15,6 +11,9 @@ navbar:
       href: https://www.linkedin.com/in/sarahforrestmph/
     - icon: fa-github fa-lg
       href: https://github.com/sarah-forrest
+  left:
+    - text: "Experience"
+      href: experience.html
 output:
   html_document:
     theme: cosmo

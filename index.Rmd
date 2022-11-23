@@ -2,6 +2,19 @@
 title: "Sarah Forrest"
 output: html_document
 ---
+<style>
+a:link {
+    color: #1D4F91;
+}
+
+a:visited {
+    color: #1D4F91;
+}
+
+ a:hover {
+    color: #1D4F91;
+}
+</style>
 
 Master of Public Health (MPH) Candidate 2023 <br>
 Columbia University Mailman School of Public Health <br>
@@ -11,7 +24,7 @@ Certificate in [Applied Biostatistics and Public Health Data Science](https://ww
 <br>
 
 <center>
-<img src="images/me.JPG" style="width:50%; border:5px solid">
+<img src="images/me.JPG" style="width:45%; border:5px solid">
 </center>
 
 <br>
@@ -27,4 +40,11 @@ See [Experience](experience.html) page for more information on my academic and p
 Sarah Forrest <br>
 New York, NY <br>
 Email: [sef2183@cumc.columbia.edu](mailto:sef2183@cumc.columbia.edu) <br>
-LinkedIn: [www.linkedin.com/in/sarahforrestmph](www.linkedin.com/in/sarahforrestmph/)
+LinkedIn: [www.linkedin.com/in/sarahforrestmph](www.linkedin.com/in/sarahforrestmph/) <br>
+GitHub: [https://github.com/sarah-forrest](https://github.com/sarah-forrest)
+
+<br>
+
+<center>
+<img src="images/logo.png" style="width:25%">
+</center>

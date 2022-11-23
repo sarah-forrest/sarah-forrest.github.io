@@ -5,6 +5,25 @@ output:
     toc: true
     toc_float: true
 ---
+
+<style>
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+    background-color: black;
+}
+
+a:link {
+    color: #1D4F91;
+}
+
+a:visited {
+    color: #1D4F91;
+}
+
+ a:hover {
+    color: #1D4F91;
+}
+</style>
+
 <br>
 
 ## Education 
@@ -28,11 +47,11 @@ GPA: 3.62
 
 **Columbia University, [Geospatial and Applied Prevention Science Lab](https://www.thegapslab.org/)**, New York, NY (February 2022 – August 2022) <br>
 *Graduate Research Assistant* <br>
-•	Investigated associations between urban design, child mobility, and crash risks in California cities, to support a NIH grant proposal informing how best to configure transportation networks to reduce crash incidence and minimize health inequities.  <br>
-•	Created statistical models to predict mobility using mixed linear regression and multinomial logistic regression in SAS and R.<br>
-•	Extracted and cleaned mobility data for 3,000+ children in over 250 cities from publicly available data sources using SAS.<br>
-•	Created graduated color maps of urban design measures for California cities using Geographic Information Systems in ArcGIS and R to confirm accuracy of variable calculations.
-•	Created compelling data visualization, summary tables, and model result reports in R for publication and presentation. See research poster [here](images/Forrest_Sarah_APExPoster.pdf){width=100%}<br>
+•	Investigated associations between urban design, child mobility, and crash risks in California cities, to support a NIH grant proposal informing how best to configure transportation networks to reduce crash incidence and minimize health inequities. <br>
+•	Created statistical models to predict mobility using mixed linear regression and multinomial logistic regression in SAS and R. <br>
+•	Extracted and cleaned mobility data for 3,000+ children in over 250 cities from publicly available data sources using SAS. <br>
+•	Created graduated color maps of urban design measures for California cities using Geographic Information Systems in ArcGIS and R to confirm accuracy of variable calculations. <br>
+•	Created compelling data visualization, summary tables, and model result reports in R for publication and presentation. See research poster [here](images/Forrest_Sarah_APExPoster.pdf){width=100%} <br>
 •	Conducted a comprehensive review of available literature on spatial epidemiology and children’s mobility research. <br>
 
 **Department of Veteran's Affairs, [Seattle Epidemiologic Research & Information Center (ERIC)](https://www.seattle.eric.research.va.gov/)**, Seattle, WA (October 2020 – August 2021) <br>
@@ -74,11 +93,12 @@ University of Washington School of Public Health Undergraduate Symposium, Seattl
 <br>
 
 ## Skills
-**Computer**: Strong knowledge of MS Office (Word, Excel, Access, PowerPoint), statistical applications (SAS, R), ArcGIS, REDCap <br>
-**Certifications**: CITI (human subjects research), HIPAA (patient privacy), VA Human Subjects Protection training/certification <br>
+**Computer**: Strong knowledge of MS Office (Word, Excel, Access, PowerPoint), statistical applications (SAS, R), ArcGIS <br>
+**Certifications**: CITI (human subjects research), HIPAA (patient privacy), VA Human Subjects Protection training and certification <br>
 **Language**: Intermediate level of proficiency in Spanish, extensive travel in 10 countries in South America and Southeast Asia
 
 <br>
 
-## [Resume](images/Forrest.Sarah.Resume.pdf){width=100%}
-![](images/Forrest.Sarah.Resume.pdf){width=100%}
+<center>
+<img src="images/logo.png" style="width:25%">
+</center>
