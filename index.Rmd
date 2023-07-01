@@ -16,8 +16,7 @@ a:visited {
 }
 </style>
 
-Master of Public Health (MPH) Candidate 2023 <br>
-Columbia University Mailman School of Public Health <br>
+MPH graduate from Columbia University Mailman School of Public Health <br>
 Department of [Epidemiology](https://www.publichealth.columbia.edu/academics/degrees/master-public-health/columbia-mph/mph-epidemiology) <br>
 Certificate in [Applied Biostatistics and Public Health Data Science](https://www.publichealth.columbia.edu/academics/degrees/master-public-health/certificates/applied-biostatistics-and-public-health-data-science) <br>
 
@@ -30,7 +29,7 @@ Certificate in [Applied Biostatistics and Public Health Data Science](https://ww
 <br>
 
 ## About
-I received a BA in Public Health-Global Health from the University of Washington in 2019. I'm currently a second-year Master's student pursuing a Master of Public Health (MPH) at Columbia Mailman School of Public Health in the Department of Epidemiology, with a certificate in Applied Biostatistics and Public Health Data Science. I'm passionate about applying analytical and epidemiological skills to address real-world health issues.
+I received a BA in Public Health-Global Health from the University of Washington in 2019 and a Master of Public Health (MPH) degree from Columbia University's Mailman School of Public Health with a concentration in Epidemiology and a certificate in Applied Biostatistics and Public Health Data Science in 2023. I'm passionate about applying analytical and epidemiological skills to address real-world health issues.
 
 See [Experience](experience.html) page for more information on my academic and professional experiences.
 
@@ -39,7 +38,8 @@ See [Experience](experience.html) page for more information on my academic and p
 ## Contact Information
 Sarah Forrest <br>
 New York, NY <br>
-Email: [sef2183@cumc.columbia.edu](mailto:sef2183@cumc.columbia.edu) <br>
+Personal Email: [forrest.sarahe@gmail.com](mailto:forrest.sarahe@gmail.com) <br>
+Professional Email: [sarah.forrest@columbia.edu](mailto:sarah.forrest@columbia.edu) <br>
 LinkedIn: [www.linkedin.com/in/sarahforrestmph](www.linkedin.com/in/sarahforrestmph/) <br>
 GitHub: [https://github.com/sarah-forrest](https://github.com/sarah-forrest)
 

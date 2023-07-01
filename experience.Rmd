@@ -27,23 +27,32 @@ a:visited {
 <br>
 
 ## Education 
-**[Columbia University, Mailman School of Public Health](https://www.publichealth.columbia.edu/)**, New York, NY (Expected May 2023) <br>
+**[Columbia University, Mailman School of Public Health](https://www.publichealth.columbia.edu/)**, New York, NY (May 2023) <br>
 **Master of Public Health (MPH)** *in [Epidemiology](https://www.publichealth.columbia.edu/academics/degrees/master-public-health/columbia-mph/mph-epidemiology), Certificate in [Applied Biostatistics and Public Health Data Science](https://www.publichealth.columbia.edu/academics/degrees/master-public-health/certificates/applied-biostatistics-and-public-health-data-science)* <br>
-GPA: 4.06 (A+) <br>
-• Activities & Honors: Columbia Mailman Consulting Club, Healthcare Data Analytics Club, Student Well-Being Collective <br>
-• Relevant Coursework: Epidemiology I-III, Applied Regression Analysis I & II, Analysis of Categorical Data, Statistical Computing with SAS, Data Science/R, Public Health GIS/ArcGIS <br>
+GPA: 3.9 <br>
+•	Thesis: *"Geographical Surveillance of COVID-19 clusters in New York City: A Comparison Between Space-Time Scan Statistics in SaTScan and Emerging Hotspot Analysis in ArcGIS"* <br>
+• Relevant Coursework: Epidemiology I-III, Applied Regression Analysis I & II, Analysis of Categorical Data, Statistical Computing with SAS, Relational Databases and SQL Programming, Data Science/R, Public Health GIS/ArcGIS <br>
 <br>
-**[University of Washington](https://www.washington.edu/)**, Seattle, WA (June 2019) <br>
+**[University of Washington (UW)](https://www.washington.edu/)**, Seattle, WA (June 2019) <br>
 **Bachelor of Arts** *in [Public Health-Global Health](https://sph.washington.edu/phgh), Minor in [Nutritional Sciences](https://nutr.uw.edu/undergraduate/nutrition-minor/)* <br>
-GPA: 3.62
+GPA: 3.6
 
 <br>
 
-## Experience
-**Columbia University, Department of Biostatistics**, New York, NY (September 2022 – Present) <br>
+## Work & Research Experience
+**Columbia University, Department of Epidemiology**, New York, NY (July 2023 – Present) <br>
+*Statistician* <br>
+•	Supporting [Dr. Kara Rudolph's](https://www.publichealth.columbia.edu/profile/kara-rudolph-phd) epidemiology research team with interests in developing and applying causal inference methods to understand social and contextual influences on mental health, substance use, and violence in disadvantaged, urban areas of the United States. <br>
+
+**[SOMOS Innovation](https://somosinnovation.com/)**, New York, NY (January 2023 – May 2023) <br>
+*Senior Business Intelligence Analyst* <br>
+•	Designed and implemented market intelligence efforts using Excel and R to report on healthcare market trends and compare against SOMOS' performance, utilizing data on plan enrollments, premiums, expenses, costs, and utilization rates. See code produced to analyze health plan enrollment data [here](https://github.com/sarah-forrest/cms_enrollment_data/blob/main/cms_enrollment.md) <br>
+•	Established reporting on benchmark performance comparisons for emerging dual-eligible government programs such as MAP and PACE, integrating Medicaid and Medicare benefits for complex populations. <br>
+
+**Columbia University, Department of Biostatistics**, New York, NY (September 2022 – May 2023) <br>
 *Graduate Teaching Assistant* <br>
-•	Improve student learning outcomes and statistical analysis skills for Statistical Computing with SAS & Applied Regression courses by facilitating discussion and providing effective feedback to 100+ students from non-technical backgrounds. <br>
-•	Create video tutorials introducing students to the SAS interface and teach fundamentals of statistical programming. <br>
+•	Improved student learning outcomes and statistical analysis skills for Statistical Computing with SAS & Applied Regression courses by facilitating discussion and providing effective feedback to 100+ students from non-technical backgrounds. <br>
+•	Created video tutorials introducing students to the SAS interface and teach fundamentals of statistical programming. <br>
 
 **Columbia University, [Geospatial and Applied Prevention Science Lab](https://www.thegapslab.org/)**, New York, NY (February 2022 – August 2022) <br>
 *Graduate Research Assistant* <br>
@@ -56,16 +65,11 @@ GPA: 3.62
 
 **Department of Veteran's Affairs, [Seattle Epidemiologic Research & Information Center (ERIC)](https://www.seattle.eric.research.va.gov/)**, Seattle, WA (October 2020 – August 2021) <br>
 *Human Subjects Research Assistant*, [Vietnam-Era Twin (VET) Registry](https://www.seattle.eric.research.va.gov/VETR/Home.asp) <br>
-• Created and coded queries from a complex data set of 14,000+ individuals and 30+ different studies (surveys, medical records, biospecimen data) over 30 years; accurately recorded data and created reports in MS Access and Excel and presented weekly updates to Team to improve veterans' health using epidemiologic research. <br>
+• •	Created and coded queries from a complex data set of 14,000+ individuals and 30+ different studies (surveys, medical records, biospecimen data) over 30 years; accurately recorded data and created reports in MS Access and Excel and presented weekly updates to Team to improve veterans' health using epidemiologic research. <br>
 • Developed three study procedures, recruitment scripts, and trained new staff to ensure consistency and reliability. <br>
 • Successfully recruited and followed up with 500+ research participants through phone and written correspondence. <br>
 • Accurately prepared documentation for Institutional Review Board (IRB) submissions. <br>
 • Collaborated with senior subject matter experts and researchers in three locations across the United States. <br>
-
-**University of Washington Honors Program, [Bonderman Fellowship](https://bonderman.uw.edu/)**, South America & Southeast Asia (September 2019 – March 2020) <br>
-*Bonderman Fellow* <br>
-•	Selected as one of 9 undergraduate students out of a graduating class of 8,000+ for the highly competitive fellowship. See profile [here](https://bonderman.uw.edu/fellows/sarah-forrest/) <br>
-•	Independently traveled for 6 continuous months in South America and Southeast Asia to investigate systems of public health and explore multicultural approaches to wellness and modes of healing across 7 different countries. <br>
 
 **[University of Washington Food Pantry](https://www.washington.edu/anyhungryhusky/the-uw-food-pantry/)**, Seattle, WA (January 2019 – August 2019) <br>
 *Fresh Food and Sustainability Intern* <br>
@@ -79,7 +83,7 @@ GPA: 3.62
 • Developed a survey that received 90+ responses and coded responses in Excel to visualize data and identify themes. <br>
 • Presented research findings to university administrators at the UW Student Well-Being Collaborative and proposed recommendations to reduce barriers by emphasizing patient anonymity and insurance coverage of PrEP. <br>
 
-**South King County Food Coalition, Elk Run Farm**, Maple Valley, WA (June 2018 – September 2018) <br>
+**[South King County Food Coalition, Elk Run Farm](http://www.skcfc.org/elk-run-farm.html)**, Maple Valley, WA (June 2018 – September 2018) <br>
 *AmeriCorps VISTA Summer Associate* <br>
 • Maintained thorough and consistent records of all harvest data necessary for grant applications using Excel. <br>
 • Coordinated promotion of events, created marketing materials, produced a bi-weekly newsletter, and publicized opportunities through social media to recruit community members and maintain a volunteer-based workforce. <br>
@@ -87,15 +91,30 @@ GPA: 3.62
 
 <br>
 
+## Honors & Distinctions
+**University of Washington Honors Program, [Bonderman Fellowship](https://bonderman.uw.edu/)** (September 2019 – March 2020) <br>
+*Bonderman Fellow* <br>
+•	Selected as one of 9 undergraduate students out of a graduating class of 8,000+ for the highly competitive travel fellowship intended for fellows to engage deeply with peoples and communities across the world. See profile [here](https://bonderman.uw.edu/fellows/sarah-forrest/) <br>
+•	Independently traveled for 6 continuous months in South America and Southeast Asia to investigate systems of public health and explore multicultural approaches to wellness and modes of healing across 7 different countries. <br>
+•	Countries visited include Brazil, Colombia, Peru, Argentina, Chile, Thailand, Malaysia, Vietnam, and India. <br>
+
+**Public Health Departmental Honors** | UW School of Public Health (February 2018 – June 2019) <br>
+**Annual Dean’s List** | UW Office of the Registrar (September 2017 – June 2019) <br>
+**Quarterly Dean’s List** | UW Office of the Registrar (September 2015 – June 2019)
+
+<br>
+
 ## Presentations
+Columbia University Epidemiology Masters Student Day, New York, NY. “*Urban Design and Mobility Among Children Aged 5-15 in California Cities in 2017,*” November 4, 2022 <br>
+
 University of Washington School of Public Health Undergraduate Symposium, Seattle, WA. “*Public Opinion and Stakeholder Perspectives on Supervised Injection Facilities and Syringe Service Programs in Seattle, WA,*” May 23, 2019
 
 <br>
 
 ## Skills
-**Computer**: Strong knowledge of MS Office (Word, Excel, Access, PowerPoint), statistical applications (SAS, R), ArcGIS <br>
+**Computer**: Strong knowledge of MS Office (Word, Excel, Access, PowerPoint), SAS, R, SQL, ArcGIS/QGIS, SaTScan, GeoDa, and REDCap <br>
 **Certifications**: CITI (human subjects research), HIPAA (patient privacy), VA Human Subjects Protection training and certification <br>
-**Language**: Intermediate level of proficiency in Spanish, extensive travel in 10 countries in South America and Southeast Asia
+**Language**: Intermediate Spanish, extensive travel in 12 countries in Central America, South America, and Southeast Asia
 
 <br>
 
