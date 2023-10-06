@@ -30,7 +30,7 @@ a:visited {
 **[Columbia University, Mailman School of Public Health](https://www.publichealth.columbia.edu/)**, New York, NY (May 2023) <br>
 **Master of Public Health (MPH)** *in [Epidemiology](https://www.publichealth.columbia.edu/academics/degrees/master-public-health/columbia-mph/mph-epidemiology), Certificate in [Applied Biostatistics and Public Health Data Science](https://www.publichealth.columbia.edu/academics/degrees/master-public-health/certificates/applied-biostatistics-and-public-health-data-science)* <br>
 GPA: 3.9 <br>
-•	Thesis: *"Geographical Surveillance of COVID-19 clusters in New York City: A Comparison Between Space-Time Scan Statistics in SaTScan and Emerging Hotspot Analysis in ArcGIS"* <br>
+•	Thesis: *Geographical Surveillance of COVID-19 clusters in New York City: A Comparison Between Space-Time Scan Statistics in SaTScan and Emerging Hotspot Analysis in ArcGIS* <br>
 • Relevant Coursework: Epidemiology I-III, Applied Regression Analysis I & II, Analysis of Categorical Data, Statistical Computing with SAS, Relational Databases and SQL Programming, Data Science/R, Public Health GIS/ArcGIS <br>
 <br>
 **[University of Washington (UW)](https://www.washington.edu/)**, Seattle, WA (June 2019) <br>
@@ -40,9 +40,11 @@ GPA: 3.6
 <br>
 
 ## Work & Research Experience
-**Columbia University, Department of Epidemiology**, New York, NY (July 2023 – Present) <br>
-*Statistician* <br>
-•	Supporting [Dr. Kara Rudolph's](https://www.publichealth.columbia.edu/profile/kara-rudolph-phd) epidemiology research team with interests in developing and applying causal inference methods to understand social and contextual influences on mental health, substance use, and violence in disadvantaged, urban areas of the United States. <br>
+**Columbia University, Department of Epidemiology, Causal Inference (CI-NYC) Research Team **, New York, NY (July 2023 – Present) <br>
+*Data Analyst* <br>
+• Supporting [Dr. Kara Rudolph's](https://www.publichealth.columbia.edu/profile/kara-rudolph-phd) research efforts to understand the mechanisms placing low-income, disabled adults at higher risk of opioid overdose and identify opportunities for improved pain management and risk mitigation. <br>
+• Employing rigorous mediation analysis methods to identify key pathways influencing opioid use disorder and ultimately inform points for intervention to reduce risk. <br>
+• Leveraging extensive Medicaid data and R programming within an AWS server environment to perform data manipulation and advanced statistical analysis for causal inference epidemiological research. <br>
 
 **[SOMOS Innovation](https://somosinnovation.com/)**, New York, NY (January 2023 – May 2023) <br>
 *Senior Business Intelligence Analyst* <br>
@@ -65,7 +67,7 @@ GPA: 3.6
 
 **Department of Veteran's Affairs, [Seattle Epidemiologic Research & Information Center (ERIC)](https://www.seattle.eric.research.va.gov/)**, Seattle, WA (October 2020 – August 2021) <br>
 *Human Subjects Research Assistant*, [Vietnam-Era Twin (VET) Registry](https://www.seattle.eric.research.va.gov/VETR/Home.asp) <br>
-• •	Created and coded queries from a complex data set of 14,000+ individuals and 30+ different studies (surveys, medical records, biospecimen data) over 30 years; accurately recorded data and created reports in MS Access and Excel and presented weekly updates to Team to improve veterans' health using epidemiologic research. <br>
+• Created and coded queries from a complex data set of 14,000+ individuals and 30+ different studies (surveys, medical records, biospecimen data) over 30 years; accurately recorded data and created reports in MS Access and Excel and presented weekly updates to Team to improve veterans' health using epidemiologic research. <br>
 • Developed three study procedures, recruitment scripts, and trained new staff to ensure consistency and reliability. <br>
 • Successfully recruited and followed up with 500+ research participants through phone and written correspondence. <br>
 • Accurately prepared documentation for Institutional Review Board (IRB) submissions. <br>
